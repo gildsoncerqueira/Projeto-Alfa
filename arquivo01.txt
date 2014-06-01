@@ -3,4 +3,4 @@ Data Nascimento: 21/06/1972
 teste de linha de comando git
 linha adicionada<<
 outra linha adicionada online
-linha adicionada no laptop para branch laptop
+linha editada no branch laptop
